@@ -1,6 +1,6 @@
 Name:           kernel-core-signed
 Version:        1
-Release:        1%{?dist}
+Release:        1
 Summary:        kernel-core signed binaries
 
 License:        None

@@ -1,6 +1,6 @@
 Name:           edk2-ext4-signed
 Version:        1
-Release:        1%{?dist}
+Release:        1
 Summary:        edk2-ext4 signed binaries
 
 License:        None

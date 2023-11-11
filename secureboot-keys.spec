@@ -1,6 +1,6 @@
 Name:           secureboot-keys
 Version:        1
-Release:        1%{?dist}
+Release:        1
 Summary:        Secure boot keys
 
 License:        None

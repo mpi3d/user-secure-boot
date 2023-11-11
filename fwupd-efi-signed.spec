@@ -1,6 +1,6 @@
 Name:           fwupd-efi-signed
 Version:        1
-Release:        1%{?dist}
+Release:        1
 Summary:        fwupd-efi signed binaries
 
 License:        None

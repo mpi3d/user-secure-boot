@@ -1,6 +1,6 @@
 Name:           systemd-boot-signed
 Version:        1
-Release:        1%{?dist}
+Release:        1
 Summary:        systemd-boot signed binaries
 
 License:        None

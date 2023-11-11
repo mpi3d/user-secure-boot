@@ -1,6 +1,6 @@
 Name:           edk2-ovmf-signed
 Version:        1
-Release:        1%{?dist}
+Release:        1
 Summary:        edk2-ovmf signed binaries
 
 License:        None
